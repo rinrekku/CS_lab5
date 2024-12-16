@@ -17,10 +17,11 @@ By Author Name
    - 2.4 The Hidden Message  
 
 3. **Chapter 2: The Struggle**
-   - 3.1 The Obstacle Appears  
-   - 3.2 Allies and Enemies  
-   - 3.3 A Moment of Betrayal  
-   - 3.4 The Struggle Within  
+
+   - 2.1 The Rising Conflict  
+   - 2.2 Unlikely Allies  
+   - 2.3 The Test of Loyalty  
+   - 2.4 The Battle Within
 
 4. **Chapter 3: The Resolution**
    - 4.1 Confronting the Truth  
