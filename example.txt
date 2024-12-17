@@ -30,4 +30,4 @@ By Name
    - 4.3 A New Beginning  
    - 4.4 Reflection and Closure
 
-Author: ChatGPT--
+Author: ChatGPT
