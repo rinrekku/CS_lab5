@@ -1,4 +1,4 @@
-# Name: **Echoes of Truth"**
+# Name:  **Echoes of Truth"**
 
 # Title of the Book  
 By Author Name
