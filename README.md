@@ -105,7 +105,7 @@ git flow hotfix start hotfix-1.0.1
 
 10. Создал файл с исправленной критической ошибкой:
 
-```bash
+```python
 def average(numbers):
     #Added check for an empty list
     return sum(numbers) / len(numbers) if numbers else "The list is empty"
